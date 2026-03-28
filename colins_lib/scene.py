@@ -1,8 +1,4 @@
 from .event_handler import EventHandler
-from .background import Background
-from .layer_ui import LayerUI
-from .layer_2d import Layer2D
-from .layer import Layer
 from .ui.node_ui import NodeUI
 from .node_2D import Node2D
 
